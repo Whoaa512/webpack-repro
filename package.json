@@ -4,7 +4,8 @@
   "description": "Reproduces webpack dev require.context bug",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "newfile": "cp ./bar.coffee app/home/controllers/",
+    "deletefile": "rm ./app/home/controllers/bar.coffee"
   },
   "author": "C.J. Winslow <whoaa512@gmail.com> (https://github.com/whoaa512)",
   "license": "MIT",
