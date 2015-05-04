@@ -13,10 +13,12 @@
     "coffee-loader": "0.7.2",
     "coffee-script": "1.9.2",
     "del": "1.1.1",
+    "enhanced-resolve": "0.8.6",
     "gulp": "https://github.com/gulpjs/gulp/archive/4.0.tar.gz",
     "gulp-util": "3.0.4",
     "html-loader": "0.2.3",
     "ngtemplate-loader": "1.3.0",
+    "watchpack": "0.2.6",
     "webpack": "1.7.3",
     "webpack-dev-server": "1.8.0"
   },
